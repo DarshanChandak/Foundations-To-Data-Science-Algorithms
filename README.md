@@ -1,4 +1,4 @@
-# Machine Learning Algorithms
+# Foundations to Data Science Algorithms
 
 The repository contains the assignments for the **CS F320 - Foundations of Data Science** course of **[BITS Pilani, Hyderabad Campus](https://www.bits-pilani.ac.in/hyderabad/)**.
 
